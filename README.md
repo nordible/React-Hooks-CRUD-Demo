@@ -1,3 +1,7 @@
+# React Hooks CRUD Demo
+
+A sample ToDo React app implemented using Hooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
